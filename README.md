@@ -13,5 +13,16 @@
 3. Ознакомьтесь со статьей и скажите, поняли ли вы хоть слово? https://habr.com/ru/articles/752418/
 4. Обзор авиационных стандартов https://habr.com/ru/articles/144686/
 5. Книга прочитать про процессы: https://share.homew.keenetic.pro/papers/spafford2015project.pdf
-   
+# Урок 2. Собираем boost
+1. https://gist.github.com/zrsmithson/0b72e0cb58d0cb946fc48b5c88511da8
+2. Добавить к сборке pthread https://www.boost.org/build/doc/html/index.html и https://boost.sourceforge.net/doc/html/thread/build.html
+# Урок 3 и далее. Сделать совместный проект
+//можно взять с проекта FlightGear
+1. Модель самолета
+2. Модель САУ
+3. Берет данные погоды
+4. Берет данные с флайтрадара
+5. Визуализирует данные с флайтрадара
+6. Пишет логи по всем данным
+
 
