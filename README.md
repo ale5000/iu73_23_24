@@ -12,4 +12,6 @@
 2. Свои предложения по либам напишите в issues
 3. Ознакомьтесь со статьей и скажите, поняли ли вы хоть слово? https://habr.com/ru/articles/752418/
 4. Обзор авиационных стандартов https://habr.com/ru/articles/144686/
+5. Книга прочитать про процессы: https://share.homew.keenetic.pro/papers/spafford2015project.pdf
+   
 
