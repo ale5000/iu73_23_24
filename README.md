@@ -16,7 +16,8 @@
 # Урок 2. Собираем boost
 1. https://gist.github.com/zrsmithson/0b72e0cb58d0cb946fc48b5c88511da8
 2. Добавить к сборке pthread https://www.boost.org/build/doc/html/index.html и https://boost.sourceforge.net/doc/html/thread/build.html
-3. Подробное руководство по настройке https://gist.github.com/ComradeMashkov/e68435bfc482c8c7f34c9239f6d14581 
+3. Подробное руководство по настройке https://gist.github.com/ComradeMashkov/e68435bfc482c8c7f34c9239f6d14581
+4. Сборка boost под мак: https://gist.github.com/ComradeMashkov/b570af5a9c60b3774d16bc43515b38da
 # Урок 3 и далее. Сделать совместный проект
 //можно взять с проекта FlightGear
 1. Модель самолета
